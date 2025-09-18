@@ -29,5 +29,9 @@ There are no environments models available yet.
 ##### [Low Poly Tree](3D/Models/Props/Low-Poly-Tree/)
 ![Showcase Render](3D/Models/Props/Low-Poly-Tree/render.png)
 
+## Git Mirror
+[![GitHub](https://img.shields.io/static/v1?logo=github&label=&message=GitHub&color=000&style=for-the-badge)](https://github.com/printn/art-library)
+[![Codeberg](https://img.shields.io/static/v1?logo=codeberg&label=&message=Codeberg&color=000&style=for-the-badge)](https://codeberg.org/printn/art-library)
+
 ## License
 This project is under the Unlicense. For more details, please read the [LICENSE](LICENSE.md) file.
